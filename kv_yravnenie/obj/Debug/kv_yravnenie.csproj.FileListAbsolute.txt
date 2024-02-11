@@ -1,0 +1,19 @@
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.exe
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.Form1.resources
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.exe
+c:\users\юлия\documents\visual studio 2013\Projects\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.pdb
+D:\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.exe.config
+D:\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.exe
+D:\kv_yravnenie\kv_yravnenie\bin\Debug\kv_yravnenie.pdb
+D:\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.csproj.AssemblyReference.cache
+D:\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.Form1.resources
+D:\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.Properties.Resources.resources
+D:\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.csproj.GenerateResource.cache
+D:\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.csproj.CoreCompileInputs.cache
+D:\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.exe
+D:\kv_yravnenie\kv_yravnenie\obj\Debug\kv_yravnenie.pdb
